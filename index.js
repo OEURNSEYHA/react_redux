@@ -94,3 +94,12 @@ store.dispatch(buyIceCream());
 store.dispatch(buyIceCream());
 
 unSubscribe();
+
+
+
+
+
+
+
+
+// next step use with js app;
